@@ -1,0 +1,4 @@
+Archivo: Logic.java
+---------------------------------------
+Líneas Lógicas (LOC): 44
+Métodos Encontrados: 1
